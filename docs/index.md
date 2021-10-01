@@ -1,10 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome To OIW
+OIWへようこそ！
+これはOIWで活動するにあたり把握しておくべきルールをまとめたルールブックです
 
-You can use the [editor on GitHub](https://github.com/EasyPublicDocs/EvonyDocs/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## 基本活動
+```markdown
+- 資源採取
+一度手をつけた資源地はかならず刈り切ること！中途半端に残しておかない
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 遺跡について
+他同盟の遺跡には手をつけない
+遺跡はOIWで共有管理します、新規遺跡を開く際には同盟チャットで開いた旨と場所のリンクを添付ください
+一時期に高レベル遺跡一つ、低レベル遺跡一つを全員で共有するイメージで遺跡を開いてください
 
-### Markdown
+```
+### イベント
+### ガウガメラ
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,13 +35,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EasyPublicDocs/EvonyDocs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
